@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <div className="bg-black h-screen overflow-hidden">
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>spewtify</title>
+        <link rel="icon" href="https://links.papareact.com/9xl" />
       </Head>
 
       <main className="flex">
